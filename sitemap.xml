@@ -2,9 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gregorywaynepower.github.io/categories/</loc>
+    <loc>http://gregorywaynepower.github.io/about/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://gregorywaynepower.github.io/showcase/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://gregorywaynepower.github.io/</loc>
+    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://gregorywaynepower.github.io/post/hello/</loc>
+    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://gregorywaynepower.github.io/post/</loc>
+    <lastmod>1986-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://gregorywaynepower.github.io/archive/</loc>
+  </url><url>
+    <loc>http://gregorywaynepower.github.io/categories/</loc>
   </url><url>
     <loc>http://gregorywaynepower.github.io/tags/</loc>
   </url>
